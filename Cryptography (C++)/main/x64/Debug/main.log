@@ -1,0 +1,4 @@
+﻿  main.cpp
+F:\3rd Semester\Sir Abdul Rehman   DSA\Project\Main\main\main.cpp(49,2): warning C4102: 'b': unreferenced label
+F:\3rd Semester\Sir Abdul Rehman   DSA\Project\Main\main\main.cpp(71,2): warning C4102: 'c': unreferenced label
+  main.vcxproj -> F:\3rd Semester\Sir Abdul Rehman   DSA\Project\Main\x64\Debug\main.exe
