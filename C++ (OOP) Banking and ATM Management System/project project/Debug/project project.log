@@ -1,0 +1,5 @@
+﻿  project project.cpp
+F:\2nd Semester\Sir   Naveed Anwar Bhatti    OOP\Project\OOP Project Aeraf Ali\Aeraf Ali Final Project\project project\Employee.h(78,10): warning C4101: 'b': unreferenced local variable
+F:\2nd Semester\Sir   Naveed Anwar Bhatti    OOP\Project\OOP Project Aeraf Ali\Aeraf Ali Final Project\project project\Admin.h(321,10): warning C4101: 'b': unreferenced local variable
+F:\2nd Semester\Sir   Naveed Anwar Bhatti    OOP\Project\OOP Project Aeraf Ali\Aeraf Ali Final Project\project project\Customer.h(104,10): warning C4101: 'b': unreferenced local variable
+  project project.vcxproj -> F:\2nd Semester\Sir   Naveed Anwar Bhatti    OOP\Project\OOP Project Aeraf Ali\Aeraf Ali Final Project\Debug\project project.exe
